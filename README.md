@@ -1,7 +1,5 @@
 # LectureLens: Intelligent Lecture Navigation & Speaker-Aware Search
 
-**MSc Artificial Intelligence and Machine Learning**  
-**Course:** Speech Processing and Recognition (SPR)  
 
 ---
 
